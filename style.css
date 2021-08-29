@@ -280,10 +280,10 @@ em{
 }
 	@media only screen and (max-width:770px){
 	 #header{
-		 background-image:none;
-		 color:#000;
+		 background-color:#000;
+		 
 	 }
-	 .about h3{
+	 .about .ab h3{
 		 margin-top:20px;
 	 }
 	}
