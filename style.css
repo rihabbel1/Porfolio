@@ -278,4 +278,7 @@ em{
 	width:80px;
 	transition:1s
 }
-	
+	@media only screen and (max-width:770px){
+	 #header{
+		 background-image:none;
+	 }
