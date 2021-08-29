@@ -281,4 +281,5 @@ em{
 	@media only screen and (max-width:770px){
 	 #header{
 		 background-image:none;
+		 background-color:#000;
 	 }
