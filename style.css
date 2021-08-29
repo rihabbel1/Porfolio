@@ -278,12 +278,12 @@ em{
 	width:80px;
 	transition:1s
 }
-	@media only screen and (max-width:770px){
-	 #header{
-		 background-color:#000;
+	/* @media only screen and (max-width:770px){ */
+	 /* #header{ */
+		 /* background-color:#000; */
 		 
-	 }
-	 .about .ab h3{
-		 margin-top:20px;
-	 }
-	}
+	 /* } */
+	 /* .about .ab h3{ */
+		 /* margin-top:20px; */
+	 /* } */
+	/* } */
