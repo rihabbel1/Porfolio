@@ -18,14 +18,6 @@
 	margin-right:30px;
 	margin-bottom:20px;
 }
-@keyframes slid-up{
-	0%{
-		transform: translateY(250px);
-	}
-	100%{
-		transform: translateY(0);
-	}
-}
 .nav-bar .icon a{
 	text-decoration:none;
 }
