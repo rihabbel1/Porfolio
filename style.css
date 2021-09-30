@@ -221,7 +221,7 @@ cursor:pointer;
 	background:#efefef;
 }
  /* responsive ************************************************************/
- @media (max-width: 767px) {
+ @media (max-width: 768px) {
   
      .btn .fa-bars{
 	  color:#000;
@@ -234,11 +234,8 @@ cursor:pointer;
 		 padding-left:10px;
 	 }
 	 .cv-btn{
-		 margin-left:140px;
+		 margin-left:10px;
 	 }
-	 .contact-box{
-		 width:70%;
-		 margin-left:70px;
-	 }
+	 
 	
  }
